@@ -105,7 +105,7 @@ padding: 5px;
     
     
 }
-/* .categorySection{
+.categorySection{
     max-width: 1280px;
     display: flex;
     padding-left: 8px;
@@ -195,7 +195,164 @@ padding: 5px;
     border: 1px solid #328616;
     background-color: #f7fff9;
  }
- #aditya{
+ /* #aditya{
     
     margin-top: -2px;
+ }
+
+ .footerLeft{
+    margin-top: 20px;
+    height: 370px;
+
+
+ }
+.aditya{
+    padding: 20px;
+    margin: 5px;
+    font-size: 15px;
+    width: 36%;
+    display: flex;
+    justify-content: space-between;
+}
+.footer-Content{
+    display: flex;
+ 
+    font-size: 12px;
+    padding: 20px;
+    padding-left: 35px;
+    padding-bottom: 10px;
+    margin-bottom: -20px;
+
+   
+}
+.footerLeft1 p{
+   
+align-items: center;
+    margin: 10px;
+    font-weight: 400;
+    color: #888686;
+    
+}
+.footerLeft2 p{
+      font-weight: 400;
+      color: #888686;
+align-items: center;
+    margin: 10px;
+    
+}
+.footerLeft3 p{
+  font-weight: 400;
+    margin: 10px;
+    color: #888686;
+    
+    
+}
+.footer-Content-Right{
+
+display: flex;
+gap: 30px;
+padding-left: 305px;
+}
+.footer-Content-Right h2{
+    align-items: center;
+    
+
+}
+.footerRight {
+    width: 64%;
+    position: absolute;
+    left: 435px;
+   
+  font-weight: 400;
+  color: #888686;
+
+
+}
+.aditya2 p{
+    
+     margin: 12px;
+}
+.aditya2{
+    padding-top: 15px;
+}
+#see{
+    color:#72af73;
+    font-weight: 500;
+}
+.footerRight1{
+   
+    position: absolute;
+    left: 680px;
+   
+  font-weight: 400;
+  color: #888686;
+}
+.footerRight2{
+   
+    position: absolute;
+    left: 930px;
+   
+  font-weight: 400;
+  color: #888686;
+}
+
+ #categories{
+    margin-top: -1px;
+ }
+ #see{
+     margin-top: -1px;
+ }
+ #Useful{
+         margin-top: -1px;
+ }
+ .footer-Emoji-part{
+
+    width: 100%;
+    background-color: #fcfcfc;
+    padding: 20px;
+    margin-top: 45px;
+    align-items: center;
+    display: flex;
+ }
+ .footer-Emoji-part p{
+    flex-basis: 40%;text-align: center;
+   font-size: 14px;
+   color: #666666;
+    
+ }
+ .Appsicons{
+    flex-basis: 30%;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+
+ }
+ .Appsicons h5{
+    font-size: 15px;
+    color: #666666;
+ }
+ .socialLinks i{
+    width: 40px;
+    font-size: larger;
+    color: white;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 40px;
+    background-color: #1f1f1f;
+ }
+ .socialLinks {
+   
+    display: flex;
+    gap: 20px;
+ }
+ .last-Parts{
+
+    color: #747373;
+    padding: 10px 0px;
+    font-size: 13.5px;
+    line-height: 20px;
+    padding-left: 17px;
+    padding-bottom: 10px;
  } */
