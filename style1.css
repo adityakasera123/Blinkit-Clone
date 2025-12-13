@@ -1,0 +1,165 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.left-side h2{
+    padding: 40px 70px;
+    font-weight: 300;
+
+}
+.left-side p{
+  font-weight: 200;
+   padding-left: 28%;
+   position: relative;
+   top: -30px;
+   font-size: 20px;
+ 
+
+}
+.left-side{
+    background-color: rgb(245, 241, 236);
+    width: 50%;
+
+    
+   
+ 
+}
+.left-side img{
+position: absolute;
+margin-top: 80px;
+padding-left: 320px;
+width: 39%;
+
+   }
+   .left-side #aditya1{
+    align-items: center;
+    position: absolute;
+    font-size: 50px;
+    padding-left: 280px;
+    padding-top: 138px;
+   }
+   .left-side-bottom{
+ padding-bottom: -30px;
+  padding-left: 50px;
+  padding-top: 390px;
+    display: flex;
+    align-items: center;
+   }
+   .left-side-bottom h6{
+    padding-right: 4px;
+    padding-top: 10px;
+    font-size: 14px;
+    font-weight: 500;
+   }
+ .left-side-bottom h3{
+    font-weight: 400;
+    padding-top: 10px;
+    font-size: 17px;
+    margin: 40px 0px;
+ }
+ .main{
+    display: flex;
+ }
+ 
+ .Welcome{
+   align-items: center;
+  padding-left: 200px;
+  padding-top: 10%;
+
+ }
+ .right-side p{
+   padding-top: 20px;
+   padding-left: 120px;
+ }
+ .right-side .paragraph{
+   padding-left: 178px;
+   margin: -13px;
+ }
+.input{
+margin-bottom: 14px;
+position: relative;
+top: 50px;
+left: 21%;
+}
+.input1{
+margin-bottom: 14px;
+position: relative;
+top: 50px;
+left: 21%;
+}
+
+
+.input input{
+
+   width: 85%;
+   border: 1px solid black;
+   padding: 16px 20px;
+   border-radius: 20px;
+   outline: none;
+}
+.input1 input{
+   margin-top: 24px;
+margin-bottom: -18px;
+   width: 85%;
+   border: 1px solid black;
+   padding: 16px 20px;
+   border-radius: 20px;
+   outline: none;
+}
+#p1{
+   font-size: 15px;
+   position: absolute;
+   top: 49.5%;
+   left: 70%;
+}
+.L{
+   width: 100%;
+   font-size: 17px;
+   padding: 14px 30px;
+   border: 1px solid black;;
+   border-radius: 17px;
+   outline: none;
+   position: relative;
+   top: 25%;
+   left: 13%;
+  background-color: black;
+  color:white;
+
+}
+.icons{
+   display: flex;
+   position: relative;
+   top: 38%;
+   left: 45%;
+   font-size:25px;
+   gap: 25px;
+
+}
+.ri-instagram-fill{
+ 
+   border-radius: 50%;
+   background-color: black;
+   color: white;
+   padding: 8px;
+}
+.ri-facebook-circle-fill{
+   
+   border-radius: 50%;
+   background-color: black;
+   color: white;
+   padding: 9px;
+}
+.ri-google-fill{
+  
+   border-radius: 50%;
+   background-color: black;
+   color: white;
+   padding: 8px;
+}
+
+.left-side-bottom a{
+   text-decoration: none;
+   color: inherit;
+}

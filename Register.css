@@ -1,0 +1,159 @@
+/* *{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.logo-Top{
+    
+    align-items: center;
+    padding-top: 5px;
+    padding-left: 580px;
+}
+h4{
+    text-align: center;
+    font-size: 20px;
+    margin-left: -10px;
+    line-height: 12px;
+    margin-top: -5px;
+    font-weight: 500; 
+}
+.paragraph-Top{
+    font-size: 16px;
+
+    padding-top: 1%;
+    text-align: center;
+    line-height: 21px;
+    font-weight: 400;
+    color: #9d9d9d;
+}
+.email{
+  padding-left: 434px;
+  padding-top: 1.2%;
+}
+ label{
+font-size: 14px;
+padding-left: 1px;
+
+
+}
+.email input{
+   width: 47.7%;
+  background-color: #f7f7f7;
+   padding: 13px;
+  margin-top: 3px;
+   border: 1px solid black;
+   border-radius: 10px;
+ border: none;
+}
+.email input::placeholder{
+   padding-left: 7px;
+}
+
+.email1{
+  padding-left: 431px;
+  padding-top: 1.5%;
+}
+
+ label{
+
+padding-left: 1px;
+
+
+}
+.email1 input{
+   width: 47.7%;
+  background-color: #f7f7f7;
+   padding: 13px;
+  margin-top: 3px;
+   border: 1px solid black;
+   border-radius: 10px;
+   border: none;
+}
+.email1 input::placeholder{
+   padding-left: 7px;
+  
+}
+.paragraph-down{
+   text-align: center;
+   padding-top: 4px;
+   margin-left: -223px;
+   font-weight: 400;
+   font-size: 13px;
+   color: #919191;
+}
+.type-Of h4{
+    font-size: 15px;
+    margin-top: 25px;
+    padding-right: 16.5%;
+   
+}
+.type-Of button{
+   
+    display: flex;
+    margin-left: 34%;
+    padding: 13px 43px;
+    border-radius: 9px;
+
+    margin-top: 9px;
+   
+
+}
+.type-Of1{
+     border: 1px solid#dea389;;
+background-color: #ffece3; 
+color: #d16f45;
+}
+.type-Of2 button{
+margin-left: 52%;
+margin-top: -44px;
+ border: 1px solid #cfcdcd;;
+background-color: rgb(247, 245, 245);
+padding:14px 35px ;
+}
+
+.Register-Button button{
+   
+   margin-left: 425px;
+   margin-top: 30px;
+   border: none;
+  background-color: black;
+  color: white;
+   padding: 15px 178px;
+   border-radius: 15px;
+ 
+}
+.line{
+    text-align:center;
+    border-bottom: 1px solid black;
+    line-height: 1px;
+    margin: 20px 425px;
+    font-size: 14px;
+    font-weight: 300;
+
+}
+.line span{
+    background: white;
+    padding: 0px 10px;
+}
+.icons{
+    display: flex;
+  
+}
+.icons-Left{
+ margin-left: 440px;
+background-color: #f7f7f7 ;
+ border: 1px solid black;
+ width: 160px;
+ padding: 10px 35px;
+ border-radius: 15px;
+}
+.icons-Right{
+ margin-left: 40px;
+background-color: #f7f7f7 ;
+
+ border: 1px solid black;
+ width: 160px;
+ padding: 10px 35px; 
+ border-radius: 15px;
+} */

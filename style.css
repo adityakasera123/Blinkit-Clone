@@ -62,22 +62,40 @@ padding: 5px;
     gap: 40px;
     margin-right: 40px;
 }
-.headerBtn button{
+/* .headerBtn button{
     font-size: 16px;
     padding: 15px;
     background-color: transparent;
     border: none;
-}
+} */
+ 
 .headerBtn button:first-child{
     margin-left: 30px;
     font-weight: 200;
+    
+     
 }
-.headerBtn button:last-child{
+.cart{
     color: white;
     border-radius: 9px;
+    padding: 17px;
     font-weight: bold;
     background-color: green;
+    border: none;
 }
+
+.login{
+    background-color: transparent;
+     font-size: 16px;
+    padding: 15px;
+    border: none;
+
+}
+
+.headerBtn .login:hover{
+  transform: translateY(-1.5px);
+}
+
 .bannerSection{
     max-width: 1280px;
     margin: auto;
@@ -356,3 +374,4 @@ padding-left: 305px;
     padding-left: 17px;
     padding-bottom: 10px;
  }
+ 
